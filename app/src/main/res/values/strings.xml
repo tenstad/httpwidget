@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HTTP Widgets</string>
+    <string name="http_widget_description">Button</string>
+
+    <string name="title_activity_configure">Configure Button</string>
+    <string name="configure_finish">finish</string>
+    <string name="pick_icon">Pick Icon</string>
+</resources>
